@@ -1,0 +1,19 @@
+{
+  "name": "t",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.1.1",
+    "purescript-console": "^3.0.0",
+	"purescript-dom": "^4.15.0",
+	"purescript-aff-coroutines": "^6.0.0",
+	"purescript-canvas": "^3.3.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0"
+  }
+}
