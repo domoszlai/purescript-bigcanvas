@@ -13,9 +13,9 @@ You will need a minimal piece of HTML to be able to run it:
 
 ```html
 <html>
-<head>
-</head>
 <body>
+  <canvas id="canvas" width="600" height="600" style="border: 1px solid black;"/>
+  <script src="bigcanvas-experiment.js"></script>
 </body>
 </html>
 ```
