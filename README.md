@@ -5,7 +5,7 @@ library.
 
 It is being developed, currently only my experiments are available in the [`experiment`](https://github.com/domoszlai/purescript-bigcanvas/tree/master/experiment) folder. It is explained at http://dlacko.org/blog/2018/03/16/purescript-canvas-event-handling-with-state/.
 
-The experience code can be compiled like this:
+The sample code can be compiled like this:
 
 ```bash
 $ pulp browserify --src-path experiment --optimise --to bigcanvas-experiment.js
