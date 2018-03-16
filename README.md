@@ -3,7 +3,7 @@
 BigCanvas is (will be) an [infinte canvas](https://en.wikipedia.org/wiki/Infinite_canvas) like
 library. 
 
-It is being developed, currently only my experiments are available in the [`experiment`](https://github.com/domoszlai/purescript-bigcanvas/tree/master/experiment) folder. It is explained at http://dlacko.org/blog/2018/03/16/purescript-canvas-event-handling-with-state/.
+It is being developed, currently only my experiments are available in the [`experiment`](https://github.com/domoszlai/purescript-bigcanvas/tree/master/experiment) folder. It is explained in a blog post at http://dlacko.org/blog/2018/03/16/purescript-canvas-event-handling-with-state/.
 
 The sample code can be compiled like this:
 
