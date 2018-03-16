@@ -3,7 +3,7 @@
 BigCanvas is (will be) an [infinte canvas](https://en.wikipedia.org/wiki/Infinite_canvas) like
 library. 
 
-It is being developed, currently only my experiments are available in the `experiment folder`. It can be compiled as:
+It is being developed, currently only my experiments are available in the [experiment](https://github.com/domoszlai/purescript-bigcanvas/tree/master/experiment) folder. It can be compiled as:
 
 ```bash
 $ pulp browserify --src-path experiment --optimise --to bigcanvas-experiment.js
