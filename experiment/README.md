@@ -1,6 +1,6 @@
 # The BigCanvas experiment
 
-This is the expirement I conductod to find out how could the BigCanvas PureScript module implemented. For explanation, please read the original article at http://dlacko.org/blog/2018/03/16/purescript-canvas-event-handling-with-state/.
+This is the expirement I conducted to find out how could the BigCanvas PureScript module implemented. For explanation, please read the original article at http://dlacko.org/blog/2018/03/16/purescript-canvas-event-handling-with-state/.
 
 The sample code can be compiled like this (from the root folder):
 
